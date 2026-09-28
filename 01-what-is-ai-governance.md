@@ -26,3 +26,6 @@ AI systems can create legal, ethical, operational and societal risks.
   - How does AI governance interact with the UK GDPR?
   - What role does the EU AI Act play?
   - What should an AI governance professional actually do?
+
+## 6. My Current Perspective
+As a lawyer interested in data protection and AI governance, I am particularly interested in how legal requirements can be translated into practical organisational controls.
