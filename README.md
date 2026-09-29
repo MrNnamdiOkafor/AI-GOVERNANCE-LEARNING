@@ -17,7 +17,7 @@ This repository documents my learning journey, research notes and developing und
 
 ## Research Notes
 
-### 01 - What is AI Governace?
+### 01 - What is AI Governance?
 
 An introduction to the concept of AI governance, its importance and the key areas involved.
 [Read the document](01-what-is-ai-governance.md)
@@ -26,6 +26,11 @@ An introduction to the concept of AI governance, its importance and the key area
 
 Exploring the relationship between AI governance and data protection law, including the risks created  when AI systems process personal data.
 [Read the document](02-ai-governance-and-data-protection.md)
+
+### Research - AI Risk Assessment
+
+A practical research note exploring how organisations can identify, assess and manage risks associated with AI systems.
+[Read the research note](research/01-ai-risk-assessment.md)
 
 ## Questions I am Exploring
 
